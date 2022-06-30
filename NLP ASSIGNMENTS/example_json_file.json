@@ -1,0 +1,27 @@
+[
+  {
+    "first": {
+      "name": "Saujanya",
+      "age": 22,
+      "hobby": "playing cricket"
+    }
+  },
+
+  {
+    "second": {
+      "name": "Manoj",
+      "age": 26,
+      "hobby": "philosophy"
+    }
+  },
+
+  {
+    "third": {
+      "name": "Ashok",
+      "age": 30,
+      "hobby": "singing"
+    }
+  }
+]
+
+
